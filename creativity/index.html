@@ -1,0 +1,200 @@
+<!doctype html><html><head><title>imml</title><meta name="description" content="yo"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>#imml a.portal:not(.inline) {
+  display: block;
+}
+
+#imml .pages > .page:target ~ .page:last-child,
+#imml .pages > .page {
+  display: none;
+}
+
+/* :last-child works, but for some reason .page:last-child will not */
+#imml .pages > :last-child,
+#imml .pages > .page:target {
+  display: block;
+}
+
+#imml .pages > :last-child .breadcrumbs {
+  visibility: hidden;
+}
+</style><style>:root {
+  --imml-text-light: #333333;
+  --imml-text-dark: #eeeeee;
+  --imml-background-light: #ffffff;
+  --imml-background-dark: #121212;
+  --imml-accent-light: dodgerblue;
+  --imml-accent-dark: dodgerblue;
+}
+
+:root {
+  --imml-background: var(--imml-background-light);
+  --imml-text: var(--imml-text-light);
+  --imml-text-inverse: var(--imml-text-dark);
+  --imml-accent: var(--imml-accent-light);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --imml-background: var(--imml-background-dark);
+    --imml-text: var(--imml-text-dark);
+    --imml-text-inverse: var(--imml-text-light);
+    --imml-accent: var(--imml-accent-dark);
+  }
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+  min-height: 100%;
+  color: var(--imml-text);
+  background: var(--imml-background);
+}
+
+.pages {
+  margin: 0 auto;
+  max-width: 600px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.pages .page {
+  padding-top: 2em;
+  padding-bottom: 10em;
+}
+
+.page .breadcrumbs {
+  font-family: monospace;
+  text-transform: uppercase;
+  font-size: small;
+}
+
+p {
+  line-height: 22px;
+}
+
+a {
+  width: fit-content;
+  color: var(--imml-accent);
+  border-bottom: 1px dotted var(--imml-accent);
+  text-decoration: none;
+}
+
+hr {
+  border-style: solid;
+  border-bottom: 1px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+blockquote {
+  border-left: 0.5em solid var(--imml-text-inverse);
+  padding: 0 1em;
+}
+
+blockquote p {
+  font-style: italic;
+}
+
+code {
+  background: var(--imml-text-inverse);
+  border-radius: 0.25em;
+  padding: 0em 0.25em;
+  font-family: monospace;
+  display: inline-block;
+}
+pre code {
+  padding: 0.5em 0.5em;
+}
+pre {
+  overflow-x: auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+table {
+  margin-top: 0.25em;
+  border-collapse: collapse;
+  width: 100%;
+}
+thead {
+  text-align: left;
+  font-weight: bold;
+}
+thead tr {
+  border-bottom: 1px solid;
+}
+tr {
+  border-bottom: 1px dashed;
+}
+td,
+th {
+  padding: 4px;
+}
+</style><style class="imml">
+* {
+    font-family: monospace;
+}
+ input[type=submit] {
+     border-radius: 10px;
+     font-weight: bold;
+     margin-right: 8px;
+     text-transform: uppercase;
+     font-size: 13px;
+ }
+#consistency {
+    width: 150px;
+    height: 80px;
+    background: red;
+    border-radius: 100px;
+    border: 13px solid black;
+}
+#inspiration {
+    background: yellow;
+    width: 150px;
+    height: 170px;
+    border: 10px dotted purple;
+}
+#belief {
+    background: blue;
+    color: #fff;
+    width: 180px;
+    height: 110px;
+    border: 10px dashed orange;
+}
+#marketing {
+    background: green;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    border: 5px dotted #FF5733;
+    margin: 10px;
+    transform: skew(-10deg);
+}
+input[type=submit]:hover {
+     background: darkturquoise !important;
+}
+</style></head><body><div id="imml"><div class="pages"><div class="page" id="home"><div class="breadcrumbs"><span>home</span></div><center>
+<h2>the.</h2><h1>CreAtivitʸ</h1> <em>helper</em>
+
+<p><br><br></p>
+<h3>Hello turtle,</h3>
+<h3>wtf are you struggling with?</h3>
+<p><br><br></p>
+<form id="buttons" action="solution.html">
+    <input type="submit" value="Consistency" id="consistency">
+    <input type="submit" value="Inspiration" id="inspiration">
+    <br><br>
+    <input type="submit" value="Self-belief" id="belief">
+    <input type="submit" value="Marketing" id="marketing">
+</form>
+
+</center>
+<script>
+</script></div></div></div></body></html>
