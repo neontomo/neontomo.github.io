@@ -141,14 +141,15 @@ th {
 * {
     font-family: monospace;
 }
- input[type=submit] {
-     border-radius: 10px;
-     font-weight: bold;
-     margin-right: 8px;
-     text-transform: uppercase;
-     font-size: 13px;
- }
+form {
+    display: inline-block;
+}
 #consistency {
+    border-radius: 10px;
+    font-weight: bold;
+    margin-right: 8px;
+    text-transform: uppercase;
+    font-size: 13px;
     width: 150px;
     height: 80px;
     background: red;
@@ -180,21 +181,100 @@ th {
 input[type=submit]:hover {
      background: darkturquoise !important;
 }
-</style></head><body><div id="imml"><div class="pages"><div class="page" id="home"><div class="breadcrumbs"><span>home</span></div><center>
-<h2>the.</h2><h1>CreAtivitʸ</h1> <em>helper</em>
+</style></head><body><div id="imml"><div class="pages"><div class="page" id="consistencypage"><div class="breadcrumbs"><a href="#">home</a> / <span>consistencypage</span></div><h1>CONSISTENCY IS FOR ICE CREAM.</h1>
+<p>WHEN IT MELTS, IT'S NO LONGER FUCKING ICE CREAM.</p>
+<p>THAT'S RIGHT, IT'S JUICE. OR SOMETHING.</p>
+<p>THAT'S WHY IT NEEDS TO STAY CONSISTENT.</p>
+<p>YOU'RE NOT AN ICE CREAM ARE YOU? (rhetorical question)</p>
+<p>GOOD.</p>
+<p>WHY ARE YOU STILL HERE? GO HOME.</p>
+<br>
+
+<p>uh, this is getting... creepy now.</p>
+<p>i feel a bit threatened so i'm gonna turn off caps.</p>
+<p>why u still here?</p>
+<p><a href="#home">return</a></p>
+</div><div class="page" id="inspirationpage"><div class="breadcrumbs"><a href="#">home</a> / <span>inspirationpage</span></div><h1>THE INSPIRATION STORE</h1>
+<p>Hello [insert your name here].</p>
+<p>"When you have a dream, you've got to grab it and never..."</p>
+<p>no wait.</p>
+<p>that's the wrong quote.</p>
+<p>"Live, Love, Lau..." fuck. that's not it.</p>
+<br>
+
+<p>MARGARETH! WHERE THE HELL ARE THE INSPIRATIONAL QUOTES? I'VE GOT A CUSTOMER!</p>
+<p>...</p>
+<p>WHAT DO YOU MEAN YOU THREW THEM AWAY?</p>
+<br>
+
+<p>I'm so sorry. We're... out of inspirational quotes.</p>
+<p>I know you're upset, but there's really none left.</p>
+<br>
+Come back later. We'll order some more when the time is right.
+
+<p><a href="#home">return</a></p>
+</div><div class="page" id="selfbeliefpage"><div class="breadcrumbs"><a href="#">home</a> / <span>selfbeliefpage</span></div><h1>I believed in myself once!</h1>
+<p>It was awful.</p>
+<p>All I could say all day was "I got this bro!"</p>
+<p>People would come to my house to ask me what I'm doing.</p>
+<p>"I got this bro!" came the answer.</p>
+<p>I really <strong>believed</strong> in myself.</p>
+<p>Oh yes, I was a belieber. In myself.</p>
+<p>No one could say anything else, because here I was, saying it.</p>
+<p>One time, a friend asked if I could help her pick out a dress for her wedding.</p>
+<p>"I got this bro!"</p>
+<p>She stared at me. "So are you coming?"</p>
+<p>She went and picked it without me in the end. Never figured out why.</p>
+<p><a href="#home">return</a></p>
+</div><div class="page" id="marketingpage"><div class="breadcrumbs"><a href="#">home</a> / <span>marketingpage</span></div><h1>Good marketing is like finding a fish inside your boots.</h1>
+<p>Okay, it's nothing like that.</p>
+<p>I just wanted to sound like I know what I'm doing.</p>
+<p>I've heard that's the key...</p>
+<p>CONFIDENCE.</p>
+<p>Say anything with enough CONFIDENCE and people will believe you.</p>
+<p>I'll prove it to you.</p>
+<br>
+
+<p>"I am completely certain that I'm a loser with nothing to offer the world."</p>
+<br>
+
+<p>Hehe. Pretty convincing huh? That's the power of CONFIDENCE.</p>
+<p><a href="#home">return</a></p>
+</div><div class="page" id="aboutpage"><div class="breadcrumbs"><a href="#">home</a> / <span>aboutpage</span></div><h1>AboutAboutAboutAbout WHATABOUT</h1>
+<p>Uh. So.</p>
+<p>How do I explain this.</p>
+<p>I'm trying to trick you... into being creative? By uh...</p>
+<p>...not giving you the right answers? Maybe? Ok yes.</p>
+<br>
+
+<p>Right answers-thinking leads to perfectionism and creative blocks.</p>
+<p><strong>Wrong answers only.</strong></p>
+<p>Get out of here.</p>
+<p>Made by <a href="https://neontomo.com/">Tomo</a>.</p>
+</div><div class="page" id="home"><div class="breadcrumbs"><span>home</span></div><center>
+<h2>the.</h2><h1>creAtivitʸ</h1> <em>un—helpeR</em>
 
 <p><br><br></p>
-<h3>Hello turtle,</h3>
-<h3>wtf are you struggling with?</h3>
+<h3>Hello turtle, wtf are you struggling with?</h3>
 <p><br><br></p>
-<form id="buttons" action="solution.html">
-    <input type="submit" value="Consistency" id="consistency">
-    <input type="submit" value="Inspiration" id="inspiration">
+<div>
+    <form id="buttons" action="#consistencypage">
+        <input type="submit" value="Consistency" id="consistency">
+    </form>
+    <form id="buttons" action="#inspirationpage">
+        <input type="submit" value="Inspiration" id="inspiration">
+    </form>
     <br><br>
-    <input type="submit" value="Self-belief" id="belief">
-    <input type="submit" value="Marketing" id="marketing">
-</form>
+    <form id="buttons" action="#selfbeliefpage">
+        <input type="submit" value="Self-belief" id="belief">
+    </form>
+    <form id="buttons" action="#marketingpage">
+        <input type="submit" value="Marketing" id="marketing">
+    </form>
+</div>
 
+<p><br><br></p>
+<p><a href="#aboutpage">wtf, tell me more about this poorly designed website.</a></p>
 </center>
 <script>
 </script></div></div></div></body></html>
