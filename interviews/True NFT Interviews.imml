@@ -1,0 +1,36 @@
+$description: True NFT Interviews
+$title: True NFT Interviews
+$theme: light
+
+[home]
+    <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css">
+    <div id=nav>
+        <a href="https://twitter.com/neontomo">
+            <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://instagram.com/neontomo">
+            <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
+        </a>
+    </div>
+
+    # True NFT Interviews
+
+    These are my interviews with NFT artists that I admire.
+    
+    People who aren't afraid to make mistakes or bare their souls.
+
+    I want the community to know who they're supporting. Let's dig deeper into the motivation of some amazing artists.
+    <br />
+
+    ### Interviews (latest to oldest):
+
+    <ol reversed>
+        <!--<li>2. <a href="./#soleiva">Soleiva</a></li>-->
+        <li>2. <a href="./eitzi">Eitzi</a></li>
+        <li>1. <a href="./yamudazu">Yamudazu</a></li>
+    </ol>
+
+    <br />
+
+    Know someone I should interview? [DM me](https://twitter.com/neontomo).
