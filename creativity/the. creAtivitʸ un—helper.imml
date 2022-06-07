@@ -1,0 +1,276 @@
+$title: the. creAtivitʸ un—helper
+$description: yo
+$theme: light
+
+[home]
+    [[consistencypage]]
+        # CONSISTENCY IS FOR ICE CREAM.
+        
+        WHEN IT MELTS, IT'S NO LONGER FUCKING ICE CREAM.
+        
+        THAT'S RIGHT, IT'S JUICE. OR SOMETHING.
+
+        THAT'S WHY IT NEEDS TO STAY CONSISTENT.
+
+        YOU'RE NOT AN ICE CREAM ARE YOU? (rhetorical question)
+
+        GOOD.
+
+        WHY ARE YOU STILL HERE? GO HOME.
+        
+        <br />
+
+        uh, this is getting... creepy now.
+        
+        i feel a bit threatened so i'm gonna turn off caps.
+
+        why u still here?
+
+        <a href='#home'>← return</a>
+
+    [[inspirationpage]]
+        # THE INSPIRATION STORE
+
+        Hello [insert your name here].
+
+        "When you have a dream, you've got to grab it and never..."
+        
+        no wait.
+
+        that's the wrong quote.
+
+        "Live, Love, Lau..." fuck. that's not it.
+
+        <br />
+        
+        MARGARETH! WHERE THE HELL ARE THE INSPIRATIONAL QUOTES? I'VE GOT A CUSTOMER!
+
+        ...
+
+        WHAT DO YOU MEAN YOU THREW THEM AWAY?
+
+        <br />
+
+        I'm so sorry. We're... out of inspirational quotes.
+
+        I know you're upset, but there's really none left.
+
+        <br />
+        Come back later. We'll order some more when the time is right.
+
+        <a href='#home'>← return</a>
+
+    [[selfbeliefpage]]
+        # I believed in myself once!
+
+        It was awful.
+
+        All I could say all day was "I got this bro!"
+
+        People would come to my house to ask me what I'm doing.
+
+        "I got this bro!" came the answer.
+
+        I really **believed** in myself.
+
+        Oh yes, I was a belieber. In myself.
+        
+        No one could say anything else, because here I was, saying it.
+
+        One time, a friend asked if I could help her pick out a dress for her wedding.
+
+        "I got this bro!"
+        
+        She stared at me. "So are you coming?"
+
+        She went and picked it without me in the end. Never figured out why.
+
+        <a href='#home'>← return</a>
+
+    [[marketingpage]]
+        # Good marketing is like finding a fish inside your boots.
+
+        Okay, it's nothing like that.
+        
+        I just wanted to sound like I know what I'm doing.
+        
+        I've heard that's the key...
+
+        CONFIDENCE.
+
+        Say anything with enough CONFIDENCE and people will believe you.
+
+        I'll prove it to you.
+
+        <br />
+
+        I am completely certain that I'm a loser with nothing to offer the world.
+
+        <br />
+
+        Hehe. Pretty convincing huh? That's the power of CONFIDENCE.
+
+        <a href='#home'>← return</a>
+
+    [[aboutpage]]
+        # AboutAboutAboutAbout WHATABOUT
+
+        Uh. So.
+
+        How do I explain this.
+
+        I'm trying to trick you... into being creative. By uh...
+
+        ...not giving you the right answers. Maybe? Ok yes. FINE, YOU GOT ME.
+
+        <br />
+
+        Right answers-thinking leads to perfectionism and creative blocks.
+
+        **Wrong answers only.**
+
+        Get out of here.
+
+        <br />
+
+        PS. If it helped, share the page with a friend.
+
+        Made by <a href="https://neontomo.com/">Tomo</a>. 🖤
+
+
+        <a href='#home'>← return</a>
+
+        <br />
+
+        <div id=nav>
+            <a href="https://foundation.app/@neontomo">
+                <img src="https://neontomo.com/img/nav/foundation.png" width="30" title="Foundation NFTs" />
+            </a>
+            &nbsp;
+            <a href="https://opensea.io/neontomo?tab=created_collections">
+                <img src="https://neontomo.com/img/nav/opensea.png" width="20" title="OpenSea NFTs" />
+            </a>
+            &nbsp;
+            <a href="https://twitter.com/neontomo">
+                <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
+            </a>
+            &nbsp;
+            <a href="https://instagram.com/neontomo">
+                <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
+            </a>
+            &nbsp;
+            <a href="https://www.youtube.com/c/thomasmyrman">
+                <img src="https://neontomo.com/img/nav/youtube.png" width="20" title="YouTube" />
+            </a>
+        </div>
+
+    <center>
+    <h2>the.<h1>creAt<span style="color:red;">i</span>vitʸ</h1> <em>un—helper</em></h2>
+
+    <br /><br />
+
+    ### Hello turtle, wtf are you struggling with?
+
+    <br /><br />
+
+    <div>
+        <form id=buttons action="#consistencypage">
+            <input type=submit value="Consistency" id=consistency />
+        </form>
+        <form id=buttons action="#inspirationpage">
+            <input type=submit value="Inspiration" id=inspiration />
+        </form>
+        <br /><br />
+        <form id=buttons action="#selfbeliefpage">
+            <input type=submit value="Self-belief" id=belief />
+        </form>
+        <form id=buttons action="#marketingpage">
+            <input type=submit value="Marketing" id=marketing />
+        </form>
+    </div>
+    
+    <br /><br />
+
+    <a href="#aboutpage"> wtf, tell me more about this poorly designed website.</a>
+    </center>
+    <script>
+    </script>
+$style:
+    <style>
+    * {
+        font-family: monospace;
+    }
+
+    body {
+        color: #000 !important;
+        background: #fff !important;
+    }
+
+    form {
+        display: inline-block;
+        text-transform: uppercase;
+    }
+
+    form input {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    #consistency {
+        border-radius: 10px;
+        margin-right: 8px;
+        text-transform: uppercase;
+        font-size: 13px;
+        width: 150px;
+        height: 80px;
+        background: red;
+        border-radius: 100px;
+        color: #000;
+        border: 13px solid black;
+    }
+    #inspiration {
+        background: yellow;
+        width: 150px;
+        height: 170px;
+        color: #000;
+        border: 10px dotted purple;
+    }
+    #belief {
+        background: blue;
+        color: #fff;
+        width: 180px;
+        height: 110px;
+        border: 10px dashed orange;
+    }
+    #marketing {
+        background: green;
+        color: #fff;
+        width: 100px;
+        height: 100px;
+        border: 5px dotted #FF5733;
+        margin: 10px;
+        transform: skew(-10deg);
+    }
+    input[type=submit]:hover {
+         background: darkturquoise !important;
+    }
+    #nav {
+        background: #fff;
+        float: right;
+        padding-right: 30px !important;
+    }
+
+    #nav a {
+        text-decoration: none !important;
+        border: 0 !important;
+    }
+    #nav a img:hover {
+        /* navigation */
+        animation: mymove_nav 5s 1;
+    }
+    @keyframes mymove_nav {
+        10% {
+            transform: scale(1.2);
+        }
+    }
+    </style>

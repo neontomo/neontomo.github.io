@@ -1,0 +1,256 @@
+$description: Tomo - artist & creator
+$title: Tomo - artist & creator
+$theme: light
+
+[home]
+    [[artwork(artwork)]]
+        <p id=gallery2>
+            <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/32882624775511574820791650379075546230510592000503080533297530298495913689089/">
+                <img src="https://neontomo.com/img/gallery/7.png" title="NFT on OpenSea - For sale" />
+            </a>
+            <a href="https://foundation.app/@neontomo/she-is-strong/2">
+                <img src="https://neontomo.com/img/gallery/6.png" title="NFT on Foundation - For sale" />
+            </a>
+            <a href="https://foundation.app/@neontomo/she-is-strong/1">
+                <img src="https://neontomo.com/img/gallery/5.png" title="NFT on Foundation - For sale" />
+            </a>
+            <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32882624775511574820791650379075546230510592000503080533297530296296890433537/">
+                <img src="https://neontomo.com/img/gallery/4.png" title="NFT on OpenSea - Sold" />
+            </a>
+            <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32882624775511574820791650379075546230510592000503080533297530295197378805761/">
+                <img src="https://neontomo.com/img/gallery/3.png" title="NFT on OpenSea - Sold" />
+            </a>
+            <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32882624775511574820791650379075546230510592000503080533297530287500797411329/">
+                <img src="https://neontomo.com/img/gallery/2.png" title="NFT on OpenSea - Gifted to friend"/>
+            </a>
+            <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32882624775511574820791650379075546230510592000503080533297530285301774155777/">
+                <img src="https://neontomo.com/img/gallery/1.png" title="NFT on OpenSea - Gifted to friend"/>
+            </a>
+            <a href=#home>← Go back</a>
+        </p>
+
+    <div id=nav>
+        <a href="https://foundation.app/@neontomo">
+            <img src="https://neontomo.com/img/nav/foundation.png" width="30" title="Foundation NFTs" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://opensea.io/neontomo?tab=created">
+            <img src="https://neontomo.com/img/nav/opensea.png" width="20" title="OpenSea NFTs" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://twitter.com/neontomo">
+            <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://instagram.com/neontomo">
+            <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
+        </a>
+    </div>
+
+    <br />
+    
+    # I'm Tomo, artist & creator.
+
+    As an artist, I don’t make compromises. **I only make art that I love.**
+
+    But it wasn’t always that way. Let me tell you my story.
+    
+
+
+    <br />
+
+    <p id=gallery>
+        <div class="wrapper">
+            <a href="https://foundation.app/@neontomo/she-is-strong/1">
+                <img src="https://neontomo.com/img/gallery/5.png" title="NFT on Foundation - For sale"/>
+            </a>
+        </div>
+        <div class="wrapper">
+            <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/32882624775511574820791650379075546230510592000503080533297530295197378805761/">
+                <img src="https://neontomo.com/img/gallery/3.png" title="NFT on OpenSea - Sold" />
+            </a>
+        </div>
+    <a href="#artwork">Show more juicy artwork...</a>
+    </p>
+    <br /><br />
+
+    <br />
+    <img src="https://neontomo.com/img/story/beyourself.png" />
+    <br /><br /><br />
+
+    As a kid you’d find me sitting behind the TV, more fascinated by the cables instead of watching cartoons like my siblings. I still use this philosophy. Picking ideas apart, questioning rules, and making something beautiful out of what I learn.
+
+    <br /><br />
+    ![neontomo](https://neontomo.com/img/story/neonboy.jpg)
+
+    <br /><br />
+    
+    **Unsurprisingly, I was a lonely kid, and when I got into adulthood I started searching for answers to the big questions.**
+
+    In 2018 I ended up in the hospital from taking 10x the normal LSD dose, leading to a psychotic breakdown.
+
+    ![tomo on drugs](https://neontomo.com/img/story/eye.png)
+
+    I was falling through space, cold, alone. I felt like everyone could see how weak I was. Panic attacks daily. I fucked my future up completely.
+
+    <br /><br /><br />
+    <img src="https://neontomo.com/img/story/insane.png" />
+    <br /><br /><br /><br />
+
+
+    **I had a choice ahead of me.** Either I go deeper into madness and depression or I take the heavy steps towards rebuilding my life.
+
+    I found peace while making psychedelic artworks.
+
+    Slowly, a new identity took shape and the old Tomo died.    
+
+
+    <br /><br /><div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JTXVYYjzznM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <br /><br /><br /><br />
+
+    I found my inner power like a glowing light, leading me forward fearlessly.
+
+    This journey started with me looking for answers to the big questions, but instead I learned that answers are overrated.
+
+    <br /><br />
+    <img src="https://neontomo.com/img/story/challenges.png" />
+    <br /><br />
+
+    I learned to keep my feet on the ground and keep asking questions.
+
+    But no one can give me the answers.
+
+    * If I want independence, I have to invent it.
+
+    * If I want to work for myself, I have to build it.
+
+    * If I want community, I have to give it.
+
+    <br />
+    Now I am an artist, because I say so.
+    
+    And I'm here to inspire you to be one too.
+    
+    <br /><br />
+    <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/32882624775511574820791650379075546230510592000503080533297530300694936944641/">
+        <img src="https://neontomo.com/img/story/writing.png" title="Writing down thoughts on LSD - For sale" />
+    </a>
+    <br /><br />
+
+    If you made it this far, then you feel this connection too. Let's see where it leads!
+
+    Connect with me on [Instagram](https://instagram.com/neontomo) and [Twitter](https://twitter.com/neontomo).
+
+    Buy my artwork as NFTs on <a href="https://foundation.app/@neontomo">Foundation</a> and <a href="https://opensea.io/neontomo?tab=created">OpenSea</a>.
+
+    Love you. 🖤
+
+    <img src="https://neontomo.com/img/story/signature.png" width=150 />
+
+    <br />
+
+    <br /><br /><br />
+    <img src="https://neontomo.com/img/story/spark.png" />
+    <br /><br /><br />
+
+    <div id=nav>
+        <a href="https://foundation.app/@neontomo">
+            <img src="https://neontomo.com/img/nav/foundation.png" width="30" title="Foundation NFTs" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://opensea.io/neontomo?tab=created">
+            <img src="https://neontomo.com/img/nav/opensea.png" width="20" title="OpenSea NFTs" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://twitter.com/neontomo">
+            <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://instagram.com/neontomo">
+            <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
+        </a>
+    </div>
+
+$style:
+    <style>
+        body {
+            background: #fff;
+            color: #000;
+        }
+        #nav {
+            background: #fff;
+            float: right;
+            padding-right: 30px !important;
+        }
+        p {
+            line-height: 25px;
+        }
+        #pfp {
+            width: 130px;
+            border-radius: 100px;
+            display: none;
+        }
+        a {
+            color: #6c5ce7;
+            border-bottom: 0 !important;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #000;
+        }
+        .wrapper {
+            width: 45%;
+            vertical-align: top;
+            display: inline-block !important;
+            overflow: hidden;
+            box-shadow: 3px 3px 8px #ccc;
+            margin: 0 0 40px 0 !important;
+        }
+        .wrapper:nth-child(odd) {
+            margin-right: 20px !important;
+        }
+        .wrapper img {
+            display: block;
+        }
+        .wrapper img:hover {
+            animation: mymove 5s 1;
+        }
+        #gallery2 img {
+            margin-bottom: 20px !important;
+            box-shadow: 3px 3px 8px #ccc;
+        }
+        #nav a img:hover {
+            animation: mymove_nav 5s 1;
+        }
+        h1 {
+            color: #6c5ce7;
+        }
+        h1.quote {
+            border-left: 15px solid #eee;
+            padding-left: 20px;
+        }
+        @keyframes mymove {
+            50% {
+                transform: rotate(8deg) scale(1.3);
+            }
+        }
+        @keyframes mymove_nav {
+            10% {
+                transform: scale(1.2);
+            }
+        }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
