@@ -46,3 +46,8 @@ margin: 7px -15px;
 .gray {
 color: #aaa;
 }
+p img {
+box-shadow: 3px 3px 8px #ccc;
+margin-bottom: 5px;
+width: 100%;
+}
