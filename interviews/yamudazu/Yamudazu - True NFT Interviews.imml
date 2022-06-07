@@ -4,15 +4,6 @@ $theme: light
 
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
-    <div id=nav>
-        <a href="https://twitter.com/neontomo">
-            <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://instagram.com/neontomo">
-            <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
-        </a>
-    </div>
 
     <a href="/interviews/">← Back to interviews</a>
     
