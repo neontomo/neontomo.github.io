@@ -1,0 +1,175 @@
+$description: Yamudazu - NFT interviews by tomo
+$title: Yamudazu - NFT interviews by tomo
+$theme: light
+
+[home]
+    <div id=nav>
+        <a href="https://twitter.com/neontomo">
+            <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://instagram.com/neontomo">
+            <img src="https://neontomo.com/img/nav/instagram.png" width="20" title="Instagram" />
+        </a>
+    </div>
+
+    # Interview #1 - Yamudazu
+
+    <br />
+
+    ![Yamudazu](https://neontomo.com/interviews/yamudazu/img/yamudazu.jpg)
+
+    <br />
+
+    **Hi Yamudazu! Nice to meet you.**
+
+    **I want to start by asking you some easy questions, before we move to the juicy stuff.**
+
+    **What is your favourite food?**
+
+    Ah, that's easy. Tortilla wraps with jalapeños.
+
+    <br />
+
+    **Haha, wonderful.**
+    
+    **For someone who knows nothing about you, describe Yamudazu in 1-2 sentences.**
+
+    Positive and way too curious. I want to know everything, so my mind is always working. Still looking for a pause button for my thoughts. 😂
+
+    <br />
+
+    **And how long have you been making NFTs? Did you always make art?**
+
+    Always art and music, yes. I studied media design at University of Applied Science and Fine Arts in Dutch design school. But I was drawing when I should be making notes, at my job and way before.
+
+    <br />
+
+    **Okay, so a born artist. 🧑‍🎨**
+
+    **Recently you have been sharing your past traumas in your art. Can you tell us what happened?**
+
+    In September, I tore my appendix because the doctors told me my stomach was just hurting. Then I got emergency surgery and was 4 hours from death. When I got home, my peritoneum got infected too. Medicines made my brain weird, and my art evolved into blurred lines. On the 3rd day working after recovering for five months, a truck hit me from behind, giving me a concussion and neck trauma. I lost track of reality, and then my style evolved into what it is now. It was my way of expressing myself, and I started making NFTs.
+
+    Death just yelled at me to do art twice, that's how I see it now.
+
+    <br />
+
+
+    **How did those experiences shape you into the individual you are today? What choices have you made?**
+
+    Live your life, and if it doesn't feel like your life, change it. If you are going to die in 15 minutes, be able to say: “I was doing what I wanted to do”
+
+    <br />
+
+    **And were you always comfortable telling your story?**
+
+    I learned how to in design school because I had to explain my art, and my inspiration was always from life events. Usually, I only explain it to really close people.
+
+    When I didn't dare to talk about it in real life, I hid it in an NFT to send it across the world to someone I don't know, hoping he or she could get power out of it. That's why I named my collection “[whispering memories to the moon](https://opensea.io/collection/whispering-memories-to-the-moon)”.
+
+    <br />
+
+    **How did you learn to navigate the NFT space. Did you have any teachers? What did that process look like for you, making sales and connections?**
+
+    My habit of curiosity came in real handy here. I have been looking and listening to the people around me very closely. I made my first sale because the collector was touched by the story and he bought it right away. That money didn't matter to me. But that someone wanted it and was touched did a lot with me. I met some really nice people by not focusing on sales. As you might have noticed in my story, sales aren't my reason to be here and never will be.
+
+    <br />
+
+    **Do you keep in contact with your collectors?**
+
+    Most times, I build very close connections after the sale. I learned a lot from them too. It's great to me that art connects people from both sides.
+
+    <br />
+
+    **You are a very giving creator. You encourage other artists and give more than you take. Where does that generosity come from?**
+
+    <br />
+
+    **I can see a lot of emotions in your art. What emotions do you hope the viewer feels when they look at your art?**
+
+
+
+    <br />
+
+    **What is your relationship with society? Do you ever struggle to fit in?**
+
+
+
+    <br />
+
+    **What is something you love that most people don't even notice?**
+
+
+
+    <br />
+
+    **Tell us about your philosophy. What matters to Yamudazu?**
+
+
+
+    <br />
+
+    **You have a lot of colours in your art. Is there a reason for that artistic choice?**
+
+
+    <br />
+
+    **Thank you so much for opening up to me. I have one last question before we finish the interview.**
+    
+    **You have gone through an incredible journey to become who you are today.
+    What advice would you give to a younger you if he was starting now?**
+
+    <br />
+
+    Yamudazu's links:
+    [Twitter](https://twitter.com/yamudazu) / [Website](https://yamudazu.com/) / [Foundation](https://foundation.app/@Yamudazu) / [OpenSea](https://opensea.io/yamudazu?tab=created) / yamudazu.eth
+
+    <br />
+
+    Interviewed by [tomo](https://neontomo.com) on 6th July 2022.
+
+    <a href="/interviews/">More NFT interviews</a>
+
+$style:
+    <style>
+        body {
+            background: #fff;
+            color: #000;
+        }
+        #nav {
+            background: #fff;
+            float: right;
+            padding-right: 30px !important;
+        }
+        p {
+            line-height: 25px;
+        }
+        a {
+            color: #6c5ce7;
+            border-bottom: 0 !important;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #000;
+        }
+        #nav a img:hover {
+            animation: mymove_nav 5s 1;
+        }
+        h1 {
+            color: #6c5ce7;
+        }
+        h1.quote {
+            border-left: 15px solid #eee;
+            padding-left: 20px;
+        }
+        @keyframes mymove_nav {
+            10% {
+                transform: scale(1.2);
+            }
+        }
+        ol li {
+            list-style: none;
+            margin: 7px -15px;
+        }
+    </style>
