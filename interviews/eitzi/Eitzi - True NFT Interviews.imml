@@ -5,7 +5,11 @@ $theme: light
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
 
-    <a href="/interviews/">← Back to interviews</a>
+    <div id="pagination">
+        <a href="/interviews/yamudazu">← Previous interview</a>
+        <a href="/interviews">All Interviews</a>
+        <!--<a href="/interviews/">Next interview →</a>-->
+    </div>
     
     # True NFT Interviews
 
@@ -179,7 +183,7 @@ $theme: light
     <br />
 
     **What is one question you want to ask the next person I interview?**
-
+    
     “What would you change or undo if you could, since you entered the NFT space?”
 
     <br />
@@ -206,6 +210,8 @@ $theme: light
 
     Interviewed by [tomo](https://neontomo.com) on 7th June 2022.
 
-    <a href="/interviews/yamudazu">← Previous interview with Yamudazu</a>
-
-    <a href="/interviews/">More True NFT Interviews</a>
+    <div id="pagination">
+        <a href="/interviews/yamudazu">← Previous interview</a>
+        <a href="/interviews">All Interviews</a>
+        <!--<a href="/interviews/">Next interview →</a>-->
+    </div>
