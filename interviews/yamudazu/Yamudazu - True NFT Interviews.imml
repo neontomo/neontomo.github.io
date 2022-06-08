@@ -5,7 +5,11 @@ $theme: light
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
 
-    <a href="/interviews/">← Back to interviews</a>
+    <div id="pagination">
+        <!--<a href="/interviews/">← Previous interview</a>-->
+        <a href="/interviews">All Interviews</a>
+        <a href="/interviews/eitzi">Next interview →</a>
+    </div>
     
     # True NFT Interviews
 
@@ -151,6 +155,8 @@ $theme: light
 
     Interviewed by [tomo](https://neontomo.com) on 6th June 2022.
 
-    <a href="/interviews/eitzi">→ Next interview with Eitzi</a>
-
-    <a href="/interviews/">More True NFT Interviews</a>
+    <div id="pagination">
+        <!--<a href="/interviews/">← Previous interview</a>-->
+        <a href="/interviews">All Interviews</a>
+        <a href="/interviews/eitzi">Next interview →</a>
+    </div>
