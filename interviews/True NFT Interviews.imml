@@ -26,6 +26,7 @@ $theme: light
     **Interviews (latest to oldest):**
 
     <ol reversed>
+        <li><span class="gray">#002</span> <a href="./eitzi">Eitzi</a></li>
         <li><span class="gray">#001</span> <a href="./yamudazu">Yamudazu</a></li>
     </ol>
 
