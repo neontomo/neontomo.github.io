@@ -14,6 +14,7 @@ a {
 color: #6c5ce7;
 border-bottom: 0 !important;
 font-weight: bold;
+word-wrap: break-word;
 }
 a:hover {
 color: #000;
