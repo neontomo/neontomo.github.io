@@ -1,0 +1,55 @@
+$description: 404: neontomo.com
+$title: 404: neontomo.com
+$theme: light
+
+[home]    
+    # 404: This page does not exist, bae. 🤷
+
+    But maybe if you wish, **REALLY HARD**, it will.
+
+    <br />
+
+    Didn't work? Damn. Well, I'm out of ideas.
+
+    Ok. Let's just go back to the <a href="https://neontomo.com/">startpage</a> so I can tell you my story.
+
+    <br />
+
+        .___________________.
+        | _________________ |
+        | I               I |
+        | I               I |
+        | I      404      I |
+        | I               I |
+        | I_______________I |
+        !___________________!
+            ._[_______]_.
+        .___|___________|___.
+        |::: ____           |
+        |    ~~~~ [CD-ROM]  |
+        !___________________!
+
+$style:
+    <style>
+        body {
+            background: #fff;
+            color: #000;
+        }
+        p {
+            line-height: 25px;
+        }
+        a {
+            color: #6c5ce7;
+            border-bottom: 0 !important;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #000;
+        }
+        h1 {
+            color: #6c5ce7;
+        }
+        code {
+            background: #fff;
+        }
+    </style>
