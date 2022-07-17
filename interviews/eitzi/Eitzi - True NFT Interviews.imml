@@ -8,7 +8,7 @@ $theme: light
     <div id="pagination">
         <a href="/interviews/yamudazu">← Previous interview</a>
         <a href="/interviews">All Interviews</a>
-        <!--<a href="/interviews/">Next interview →</a>-->
+        <a href="/interviews/cryptoboop">Next interview →</a>
     </div>
     
     # True NFT Interviews
@@ -213,5 +213,5 @@ $theme: light
     <div id="pagination">
         <a href="/interviews/yamudazu">← Previous interview</a>
         <a href="/interviews">All Interviews</a>
-        <!--<a href="/interviews/">Next interview →</a>-->
+        <a href="/interviews/cryptoboop">Next interview →</a>
     </div>
