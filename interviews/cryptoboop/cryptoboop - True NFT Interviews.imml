@@ -6,9 +6,9 @@ $theme: light
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
 
     <div id="pagination">
-        <a href="/interviews/eitzi">← Previous interview</a>
-        <a href="/interviews">All Interviews</a>
-        <!--<a href="/interviews/">Next interview →</a>-->
+        <a href="../eitzi">← Previous interview</a>
+        <a href="../">All Interviews</a>
+        <!--<a href="../">Next interview →</a>-->
     </div>
     
     # True NFT Interviews
@@ -218,7 +218,7 @@ $theme: light
     Interviewed by [tomo](https://neontomo.com) on 10th July 2022.
 
     <div id="pagination">
-        <a href="/interviews/eitzi">← Previous interview</a>
-        <a href="/interviews">All Interviews</a>
-        <!--<a href="/interviews/">Next interview →</a>-->
+        <a href="../eitzi">← Previous interview</a>
+        <a href="../">All Interviews</a>
+        <!--<a href="../">Next interview →</a>-->
     </div>
