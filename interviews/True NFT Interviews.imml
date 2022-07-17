@@ -14,16 +14,22 @@ $theme: light
         </a>
     </div>
 
+    <div id="pagination">
+        <a href="#philosophy">Project philosophy</a>
+        <a href="https://neontomo.com/">Who am I?</a>
+    </div>
+
     # True NFT Interviews
 
     These are my interviews with NFT artists that I admire.
-    
-    People who aren't afraid to make mistakes or bare their souls.
 
-    I want the community to know who they're supporting. Let's dig deeper into the motivation of some amazing artists.
+    People who aren’t afraid to make mistakes or bare their souls.
+
+    I want the community to know who they’re supporting. Let’s dig deeper into the motivation of some amazing artists.
+
     <br />
 
-    **Interviews (latest to oldest):**
+    **Interviews:**
 
     <ol reversed>
         <li><span class="gray">#003</span> <a href="cryptoboop">cryptoboop</a></li>
@@ -31,33 +37,25 @@ $theme: light
         <li><span class="gray">#001 [Deleted by request]</span></li>
     </ol>
 
-    <br /><br /><br />
-
-    Know someone I should interview? [DM me](https://twitter.com/neontomo).
-
-
-
-    [(Project ethos)ethos]
+    [[philosophy]]
         # It takes an artist to interview an artist.
 
-        Hi,
+        Most interviews I’ve read are pretty shallow and boring, or they try to promote the interviewers agenda. It sickens me.
 
-        Too many interviews are shallow, asking the same boring questions or promoting the interviewers agenda.
+        I want to tell your story, show your art and highlight your passion.
 
-        My interviews are focused on supporting the artist and giving them more opportunities to show their work, passion and story.
+        **Project philosophy:**
 
-        **Project ethos:**
+        - You tell me what is off-limits. Consent / boundaries are important
 
-        - The artist chooses what is off-limits. Consent and boundaries are important.
+        - You choose what art you want to display
 
-        - The artist chooses what links / artwork to feature.
+        - The interview itself is a spotlight for you, nothing else
 
-        - The interview is a spotlight for the artist only.
+        In short: **no bullshit**. Thanks for reading.
 
-        - No bullshit.
+        Tomo
 
-        Thanks for reading,
+        <br />
 
-        tomo
-
-        <a href="#">← Back to interviews</a>
+        <a href="#">← Let's read some interviews</a>
