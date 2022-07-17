@@ -208,6 +208,10 @@ $theme: light
 
     <br />
 
+    <a onclick="window.open('https://twitter.com/intent/tweet?' + 'text=' + ('I just read a really interesting interview about ' + document.getElementById('username').getAttribute('at') + ', interviewed by @neontomo 🔥%0A%0AYou should read it!%0A').replace(/ /g, '+') + '&url=' + window.location.href); return false;" href="#">Share on Twitter</a>
+
+    <br />
+
     Interviewed by [tomo](https://neontomo.com) on 7th June 2022.
 
     <div id="pagination">
