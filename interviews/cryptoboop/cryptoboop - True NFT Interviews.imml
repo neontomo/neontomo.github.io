@@ -13,7 +13,7 @@ $theme: light
     
     # True NFT Interviews
 
-    ## Interview #003 - cryptoboop
+    ## Interview #003 - <span id="username" at="@cryptoboop">cryptoboop</span>
 
     <br />
 
@@ -212,6 +212,10 @@ $theme: light
 
     [Twitter](https://twitter.com/cryptoboop) / [Instagram](https://www.instagram.com/cryptoboop.eth) / [Linktree](https://linktr.ee/cryptoboop) / [OpenSea](https://opensea.io/cryptoboop?tab=created) / [Foundation](https://foundation.app/@cryptoboop.eth)
     Wallet: [cryptoboop.eth](https://etherscan.io/address/cryptoboop.eth)
+
+    <br />
+
+    <a onclick="window.open('https://twitter.com/intent/tweet?' + 'text=' + ('I just read a really interesting interview about ' + document.getElementById('username').getAttribute('at') + ', interviewed by @neontomo 🔥%0A%0AYou should read it!%0A').replace(/ /g, '+') + '&url=' + window.location.href); return false;" href="#">Share on Twitter</a>
 
     <br />
 
