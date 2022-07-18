@@ -4,7 +4,6 @@ $theme: light
 
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css">
-    <script type="text/javascript" src="https://neontomo.com/interviews/js/script.js"></script>
     <div id=nav>
         <a href="https://twitter.com/neontomo">
             <img src="https://neontomo.com/img/nav/twitter.png" width="20" title="Twitter" />
@@ -60,3 +59,5 @@ $theme: light
         <br />
 
         <a href="#">← Let's read some interviews</a>
+
+        <script type="text/javascript" src="https://neontomo.com/interviews/js/script.js"></script>
