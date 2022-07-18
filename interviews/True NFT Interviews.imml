@@ -15,7 +15,7 @@ $theme: light
     </div>
 
     <div id="pagination">
-        <a href="#philosophy">Project philosophy</a>
+        <a href="#about">About project</a>
         <a href="https://neontomo.com/">Who am I?</a>
     </div>
 
@@ -37,7 +37,7 @@ $theme: light
         <li><span class="gray">#001 [Deleted by request]</span></li>
     </ol>
 
-    [[philosophy]]
+    [[about]]
         # It takes an artist to interview an artist.
 
         Most interviews I’ve read are pretty shallow and boring, or they try to promote the interviewers agenda. It sickens me.
