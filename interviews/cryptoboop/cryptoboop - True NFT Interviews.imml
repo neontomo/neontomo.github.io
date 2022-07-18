@@ -226,3 +226,9 @@ $theme: light
         <a href="../">All Interviews</a>
         <a>Next →</a>
     </div>
+
+    <script type="text/javascript">
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://api.countapi.xyz/hit/neontomo.com/" + document.querySelector('#username').getAttribute('at').replace('@', ''));
+        xhr.send();
+    </script>
