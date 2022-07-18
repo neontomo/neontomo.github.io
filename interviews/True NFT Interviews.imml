@@ -59,3 +59,9 @@ $theme: light
         <br />
 
         <a href="#">← Let's read some interviews</a>
+
+        <script type="text/javascript">
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://api.countapi.xyz/hit/neontomo.com/");
+        xhr.send();
+        </script>
