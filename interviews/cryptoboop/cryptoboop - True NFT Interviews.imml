@@ -4,7 +4,6 @@ $theme: light
 
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
-    <script type="text/javascript" src="https://neontomo.com/interviews/js/script.js"></script>
     <div id="pagination">
         <a href="../eitzi">← Previous</a>
         <a href="../">All Interviews</a>
@@ -226,3 +225,5 @@ $theme: light
         <a href="../">All Interviews</a>
         <a>Next →</a>
     </div>
+
+    <script type="text/javascript" src="https://neontomo.com/interviews/js/script.js"></script>
