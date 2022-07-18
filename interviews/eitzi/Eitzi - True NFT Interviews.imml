@@ -4,7 +4,6 @@ $theme: light
 
 [home]
     <link rel="stylesheet" href="https://neontomo.com/interviews/css/style.css" />
-
     <div id="pagination">
         <a>← Previous</a>
         <a href="/interviews">All Interviews</a>
@@ -220,8 +219,4 @@ $theme: light
         <a href="/interviews/cryptoboop">Next →</a>
     </div>
 
-    <script type="text/javascript">
-        var xhr = new XMLHttpRequest();
-        xhr.open("GET", "https://api.countapi.xyz/hit/neontomo.com/" + document.querySelector('#username').getAttribute('at').replace('@', ''));
-        xhr.send();
-    </script>
+    <script type="text/javascript" src="https://neontomo.com/interviews/js/script.js"></script>
